@@ -1,7 +1,12 @@
 body{
     text-align: center;
+<<<<<<< HEAD
     font-family: Arial, Helvetica, sans-serif;
     color: red;
+=======
+    font-family: 'Courier New', Courier, monospace;
+    color: #000;
+>>>>>>> main
 }
 .container{
     border: 2px solid #333;
